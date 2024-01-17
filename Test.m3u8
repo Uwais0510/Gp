@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-SERVER:DRAVIE
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:3353538
+#EXTINF:5.0,
+https://streaming.indihometv.com/joss/133/flik/dravie_w460761280_b1544100_sleng_3353539.ts
+#EXTINF:5.0,
+https://streaming.indihometv.com/joss/133/flik/dravie_w460761280_b1544100_sleng_3353540.ts
+#EXTINF:5.0,
+https://streaming.indihometv.com/joss/133/flik/dravie_w460761280_b1544100_sleng_3353541.ts
