@@ -1,7 +1,0 @@
-
-
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co/0sxPx4X/01HBO.png" group-title="Movie",HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://tv.mayvee.workers.dev/license-proxy-widevine/cenc/?specConform=true
-https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
